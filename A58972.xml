@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second elegy on that incomparable heroe, Thomas Earl of Ossory who died on Fryday the 30th of July 1680.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58972</idno>
+            <idno type="STC">Wing S2276A</idno>
+            <idno type="STC">ESTC R32135</idno>
+            <idno type="EEBO-CITATION">12329607</idno>
+            <idno type="OCLC">ocm 12329607</idno>
+            <idno type="VID">59619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1027:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second elegy on that incomparable heroe, Thomas Earl of Ossory who died on Fryday the 30th of July 1680.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Within mourning border, with death emblem at head.</note>
+                  <note>Imperfect: page torn with some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ossory, Thomas Butler, --  Earl of, 1634-1680.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-06</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:59619:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <figure>
+                  <p>MEMENTO MORI:</p>
+                  <figDesc>outline of tombstone with emblems of Death depicted</figDesc>
+               </figure>
+            </head>
+            <head>A Second ELEGY On that Incomparable <hi>HEROE, <hi>THOMAS Earl of OSSORY:</hi>
+               </hi> Who died on <date>
+                  <hi>Fryday</hi> the 30th of <hi>July</hi> 1680.</date>
+            </head>
+            <lg>
+               <l>HE's dead 'tis true—I queſtion it no more;</l>
+               <l>Nay rather fear'd than doubted it before:</l>
+               <l>But Grief for <hi>OSSORY</hi> is ne'r too late,</l>
+               <l>Since future Ages will bewail his Fate.</l>
+               <l>Even this late Sorrow, which my Muſe puts on,</l>
+               <l>Had been leſs true, had it appear'd more ſoon;</l>
+               <l>For nimble ſorrow quickly change their ſhow,</l>
+               <l>The long-liv'd Grief is in its Birth moſt ſlow.</l>
+               <l>When firſt I heard Great <hi>OSSORY'S</hi> diſmal Knel,</l>
+               <l>A ſtupid horror ſtraight upon me fell,</l>
+               <l>Wrapt all my <unclear>Senſes in Aſtoniſhment</unclear>
+               </l>
+               <l>Nor did ſo much as leave for Tears a Vent.</l>
+               <l>Like <hi>Niobe,</hi> I ſeem'd to be in one,</l>
+               <l>Both Mourner then and Monumental <hi>Stone.</hi>
+               </l>
+               <l>Nor certainly, had I that Swoon ſurviv'd;</l>
+               <l>But muſt have dy'd, had not my ſorrows liv'd.</l>
+               <l>Yet 'twas no weakneſs: <hi>Charles</hi> himſelf, we hear,</l>
+               <l>Withdrew, and ſhed for <hi>Oſsory</hi> a tear.</l>
+               <l>What Heart more great? Yet ev'n that could not hold,</l>
+               <l>When to his Eares ſo ſad a Theam was told.</l>
+               <l>Were any Heart in all his Kingdoms found,</l>
+               <l>Which the ſad News with ſorrow did not wound?</l>
+               <l>A Traitors Death he juſtly might receive,</l>
+               <l>That with his King and Country would not grieve.</l>
+               <l>When on the Sickly Bed Great <hi>OSSORY</hi> lay,</l>
+               <l>And Fear had not quite took all hope away;</l>
+               <l>How eagerly the pious people ſtrove,</l>
+               <l>To ſhew a fear, which ſhew'd ſo much of Love,</l>
+               <l>Liv's he ſaid they—when, yes, the Doctor se'd,</l>
+               <l>How many Bleſſings ſhowr'd they on his Head.</l>
+               <l>He lives—the Eccho o'r all <hi>England</hi> flew;</l>
+               <l>Ev'n fierce <hi>Morocco</hi>'s King did fear 'twas true.</l>
+               <l>As on cold <hi>Oeta</hi>'s Top, the Son of <hi>Jove!</hi>
+               </l>
+               <l>With double Heat of Fire and Poyſon ſtrove;</l>
+               <l>And all the World ſtood trembling for his ſake:</l>
+               <l>Only <hi>Euryſtheus</hi> hop'd the reſt would take:</l>
+               <l>Such pains our <hi>Hero</hi> did that time endure,</l>
+               <l>Tormented with a direful <hi>Calenture.</hi>
+               </l>
+               <l>While three great Nations trembled for his Head;</l>
+               <l>Only the barbarous <hi>Moor</hi> could with him dead.</l>
+               <l>Thy loſs brave <hi>OSSORY, Tangiere</hi> deplores,</l>
+               <l>Worſe at thy Death diſmaid, than at the <hi>Moors.</hi>
+               </l>
+               <l>The Engliſh Gallants there dejected ſtand.</l>
+               <l>Wanting to their ſtout Hearts, thy Valliant <hi>Hand.</hi>
+               </l>
+               <l>
+                  <hi>Trelauny's</hi> Ghoſt walk'd ſadly by the <hi>Mole,</hi>
+               </l>
+               <l>And Shriek'd inſtead of Thee, to meet thy Soul:</l>
+               <l>He hop'd t'have been Reveng'd by thy ſharp Blade</l>
+               <l>And thou, as Pale as He, doſt walk—a Shade.</l>
+               <l>The <hi>Engliſh-Church,</hi> that had no better Friend,</l>
+               <l>(Next Heav'n &amp; <hi>Charles,</hi> who doth her Faith defend)</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>Since <hi>Fates,</hi> thus acceſſary to the Plot.</l>
+               <l>He whoſe Ambition all o'r world Alarms,</l>
+               <l>Looks now for more ſucceſs unto his Arms,</l>
+               <l>Since Thou, who didſt at <hi>Mons</hi> ſuch acts of Praiſe,</l>
+               <l>Haſt yielded now to Death the Victor's Bays.</l>
+               <l>Thy Sire, great <hi>Ormond,</hi> in thy Life more great,</l>
+               <l>(Becauſe by thee preſerv'd, from Envy's hate)</l>
+               <l>Like ſome vaſt Oak now rob'd of's leaves doth ſtand</l>
+               <l>By's Trophies ſcarce ſecur'd from Woodman's hand</l>
+               <lg>
+                  <l>Yet He (though Envy burſt) is ſtill ſecure,</l>
+                  <l>Not in's own Worth ſo much, nor Vertues pure,</l>
+                  <l>(Tho they the ſtricteſt Teſt may well endure;)</l>
+               </lg>
+               <l>No nor in <hi>Charles</hi> his great Affection;</l>
+               <l>But only, 'cauſe he had ſo great a Son.</l>
+               <l>Why were the Heavens to <hi>England</hi> ſo ſevere,</l>
+               <l>As not to let thee Flouriſh longer here?</l>
+               <l>As thus to cut Thee off in thy full prime,</l>
+               <l>And give Thee ſo much Good for ſo ſhort time?</l>
+               <l>Only to ſhow thy Worth in Field and Court,</l>
+               <l>and then to ſnatch Thee hence, as if in ſport?</l>
+               <l>Had we not known Thee, we had been content;</l>
+               <l>But who could know—and not thy loſs lament!</l>
+               <l>Yet ſince thy Death was fix'd by rigid Fate,</l>
+               <l>And to deſire thy Self is now too late;</l>
+               <l>Thanks mighty <hi>Hector</hi> of our ſecond <hi>Troy,</hi>
+               </l>
+               <l>Thanks for <hi>Aſtyanax,</hi> thy hopeful Boy,</l>
+               <l>Young <hi>James,</hi> who influenc'd with <hi>Charles</hi> his Care,</l>
+               <l>May ſhortly prove in <hi>Valour</hi> too thine <hi>Heir,</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Mallet.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
